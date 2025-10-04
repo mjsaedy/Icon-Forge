@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FormSettings>
+  <Window Width="1157" Height="700" X="360" Y="140" State="Normal" />
+  <Controls>
+    <CheckBox Name="chkKeepAspect" Checked="true" />
+    <CheckBox Name="chkCustomSize" Checked="true" />
+    <CheckBox Name="chkBox24" Checked="true" />
+    <TextBox Name="txtCustomWidth" Text="96" />
+    <CheckBox Name="chkBox48" Checked="true" />
+    <CheckBox Name="chkBox32" Checked="true" />
+    <CheckBox Name="chkBox16" Checked="true" />
+    <CheckBox Name="chkBox64" Checked="true" />
+    <CheckBox Name="chkBox128" Checked="true" />
+    <CheckBox Name="chkBox256" Checked="true" />
+    <CheckBox Name="chkBox512" Checked="true" />
+  </Controls>
+</FormSettings>

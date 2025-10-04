@@ -1,0 +1,9 @@
+F:\@workshop\Something\IconForge\IconForge\bin\Debug\IconForge.exe.config
+F:\@workshop\Something\IconForge\IconForge\bin\Debug\IconForge.exe
+F:\@workshop\Something\IconForge\IconForge\bin\Debug\IconForge.pdb
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.csprojResolveAssemblyReference.cache
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.frmMain.resources
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.Properties.Resources.resources
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.csproj.GenerateResource.Cache
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.exe
+F:\@workshop\Something\IconForge\IconForge\obj\Debug\IconForge.pdb
